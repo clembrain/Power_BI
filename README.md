@@ -1,10 +1,10 @@
 # Power_BI_Project
 
-Here's a professionally structured `README.md` file for your **Time Series Power BI Project**, inspired by your classification README format and based on the content from your Power BI dashboard documentation and the GitHub structure provided:
+Here's a professionally structured `README.md` file for your **Power BI Project**, inspired by your classification README format and based on the content from your Power BI dashboard documentation and the GitHub structure provided:
 
 ---
 
-# 📊 [Time Series Forecasting Dashboard: Global Population Urban-Rural Dynamics](https://clembrain.github.io/Power_BI/)
+# 📊 [Power Bi: Global Population Urban-Rural Dynamics](https://clembrain.github.io/Power_BI/)
 
 📅 **Date:** May 2024
 🌍 **Domain:** Global Development | Demographics
