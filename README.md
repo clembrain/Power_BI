@@ -4,12 +4,12 @@ Here's a professionally structured `README.md` file for your **Time Series Power
 
 ---
 
-# 📊 [Time Series Forecasting Dashboard: Global Population Urban-Rural Dynamics](https://clembrain.github.io/Time_Series_Project/)
+# 📊 [Time Series Forecasting Dashboard: Global Population Urban-Rural Dynamics](https://clembrain.github.io/Power_BI/)
 
 📅 **Date:** May 2024
 🌍 **Domain:** Global Development | Demographics
 📌 **Tool:** Power BI
-🗂️ **Dataset:** [Population Dynamics: Urban and Rural Data (1960–2050)](https://github.com/clembrain/Time_Series_Project/tree/main/Project_File)
+🗂️ **Dataset:** [Population Dynamics: Urban and Rural Data (1960–2050)](https://clembrain.github.io/Power_BI/) 
 
 ---
 
@@ -104,7 +104,7 @@ This Power BI project is a **comprehensive tool for urban-rural population analy
 
 ## 🔗 Explore the Full Project
 
-* 📂 [View Project Files](https://github.com/clembrain/Time_Series_Project)
-* 🌐 [Live Dashboard (if hosted)](https://clembrain.github.io/Time_Series_Project/)
+* 📂 [View Project Files](https://clembrain.github.io/Power_BI/)
+* 🌐 [Live Dashboard (if hosted)](https://clembrain.github.io/Power_BI/)
 
 ---
