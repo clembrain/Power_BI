@@ -79,7 +79,7 @@ These slicers improve the **exploratory power** of the dashboard, allowing dynam
 
 ## 🖼️ Sample Dashboard Visual
 
-![Dashboard Screenshot](https://github.com/clembrain/Power_BI/blob/main/Photo/Power%20Bi.png)
+![Dashboard Screenshot](https://github.com/clembrain/Power_BI/blob/main/Photo/PowerBi.png)
 
 > 📌 *Tip: Replace the placeholder path above with the actual image location from your repo (if hosted on GitHub).*
 
