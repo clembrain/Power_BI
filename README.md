@@ -7,7 +7,7 @@
 📅 **Date:** May 2024
 🌍 **Domain:** Global Development | Demographics
 📌 **Tool:** Power BI
-🗂️ **Dataset:** [Population Dynamics: Urban and Rural Data (1960–2050)](https://clembrain.github.io/Power_BI/) 
+🗂️ **Dataset:** [Population Dynamics: Urban and Rural Data (1960–2050)](https://github.com/clembrain/Power_BI/tree/main/Project_File) 
 
 ---
 
@@ -102,6 +102,6 @@ This Power BI project is a **comprehensive tool for urban-rural population analy
 
 ## 🔗 Explore the Full Project
 
-* 📂 [View Project Files](https://clembrain.github.io/Power_BI/)
+* 📂 [View Project Files](https://github.com/clembrain/Power_BI/tree/main/Project_File)
 
 ---
