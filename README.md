@@ -103,6 +103,5 @@ This Power BI project is a **comprehensive tool for urban-rural population analy
 ## 🔗 Explore the Full Project
 
 * 📂 [View Project Files](https://clembrain.github.io/Power_BI/)
-* 🌐 [Live Dashboard (if hosted)](https://clembrain.github.io/Power_BI/)
 
 ---
