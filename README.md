@@ -1,7 +1,5 @@
 # Power_BI_Project
 
-Here's a professionally structured `README.md` file for your **Power BI Project**, inspired by your classification README format and based on the content from your Power BI dashboard documentation and the GitHub structure provided:
-
 ---
 
 # 📊 [Power Bi: Global Population Urban-Rural Dynamics](https://clembrain.github.io/Power_BI/)
@@ -81,7 +79,7 @@ These slicers improve the **exploratory power** of the dashboard, allowing dynam
 
 ## 🖼️ Sample Dashboard Visual
 
-![Dashboard Screenshot](https://raw.githubusercontent.com/clembrain/Time_Series_Project/main/Project_File/YourDashboardScreenshot.png)
+![Dashboard Screenshot](https://github.com/clembrain/Power_BI/blob/main/Photo/Power%20Bi.png)
 
 > 📌 *Tip: Replace the placeholder path above with the actual image location from your repo (if hosted on GitHub).*
 
